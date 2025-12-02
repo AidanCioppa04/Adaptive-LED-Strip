@@ -6,10 +6,10 @@ The project uses a motion sensor to toggle between on and off, and a light senso
 
 A wiring diagram is attached for simple setup,
 For the Light Sensor
-  ground to ground
-  5V to 5V
-  SLA to SLA
-  SCR to SCR
+  -ground to ground
+  -5V to 5V
+  -SLA to SLA
+  -SCR to SCR
 For the Motion Sensor
   -ground to ground
   -5V to 5V
