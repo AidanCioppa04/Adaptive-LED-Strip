@@ -4,16 +4,19 @@
 This project, which we are calling the Adaptive LED Strip is a simple to setup and use LED strip capable of adapting to light levels within the room.
 The project uses a motion sensor to toggle between on and off, and a light sensor to detect the current light level of the room to adjust the brightness of the strip as necessary
 
-A wiring diagram is attached for simple setup\
+Wiring is as follows\
+
 For the Light Sensor\
   -ground to ground\
   -5V to 5V\
   -SLA to SLA\
   -SCR to SCR\
+  
 For the Motion Sensor\
   -ground to ground\
   -5V to 5V\
   -data line to pin 4\
+  
 For LED strip\
   -ground to ground\
   -5V to 5V\
