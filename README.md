@@ -38,3 +38,5 @@ If you are looking for an implementation where the motion sensor instead toggles
 change NUM_LEDS in at the top of the code to adjust how many LEDs are used on the strip
 
 LED color is easily changeable by referencing the FastLED wiki and changing the color in the functions
+
+Additional plans for future features are detailed within Phase2 and Phase3 most recent documentation
