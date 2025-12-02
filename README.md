@@ -26,7 +26,10 @@ It is reccomended to run the ground and 5V from the arduino onto a breadboard an
 
 After wiring everything together, simply upload the code Base.ino onto the arduino board and the project will run
 
+##Modifications
 
 If you are looking for an implementation where the motion sensor instead toggles between colors on the board, the code in ColorModelProtoypes will provide a simple implementation. With minimal code adjustments and an additional motion sensor, both of these features could be added to the same implementation as well.
+
+change NUM_LEDS in at the top of the code to adjust how many LEDs are used on the strip
 
 LED color is easily changeable by referencing the FastLED wiki and changing the color in the functions
