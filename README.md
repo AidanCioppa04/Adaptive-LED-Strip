@@ -1,5 +1,4 @@
 # Adaptive-LED-Strip
-simple LED project for my desk using arduino with some ambient light sensors
 
 This project, which we are calling the Adaptive LED Strip is a simple to setup and use LED strip capable of adapting to light levels within the room.
 The project uses a motion sensor to toggle between on and off, and a light sensor to detect the current light level of the room to adjust the brightness of the strip as necessary
