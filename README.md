@@ -3,8 +3,7 @@
 This project, which we are calling the Adaptive LED Strip is a simple to setup and use LED strip capable of adapting to light levels within the room.
 The project uses a motion sensor to toggle between on and off, and a light sensor to detect the current light level of the room to adjust the brightness of the strip as necessary
 
-Wiring is as follows
-
+## To Wire
 For the Light Sensor\
   -ground to ground\
   -5V to 5V\
@@ -20,6 +19,13 @@ For LED strip\
   -ground to ground\
   -5V to 5V\
   -data line to pin 9
+
+## To Use
+Wave hand in front of motion sensor to toggle between on and off.\
+Lights will brighten or dim depending on brightness in room
+
+Brightness is designed to smoothly transition between values
+(If you would like to see brightness change quickly, hold a flashlight in front of the sensor or cover it with you hand)
 
 It is reccomended to run the ground and 5V from the arduino onto a breadboard and attach the sensors via the breadboard as there are not enough 5V/GND pins on the arduino to accomodate for the three peripherals
 
