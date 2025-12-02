@@ -17,7 +17,7 @@ require hard-coding into the "stripRedSolid()" function.
 #include <FastLED.h>
 
 #define MAX_LUX 3000          // Sets upper limit for Lux
-#define NUM_LEDS 5           // Number of LEDs used in strip
+#define NUM_LEDS 200           // Number of LEDs used in strip
 #define INIT_BRIGHTNESS 50    // Sets initial brightness for strip
 #define FLOOR_BRIGHTNESS 5    // Brightness cannot drop below this
 
