@@ -15,7 +15,7 @@ For the Light Sensor\
 For the Motion Sensor\
   -ground to ground\
   -5V to 5V\
-  -data line to pin 4
+  -data line to pin 2
   
 For LED strip\
   -ground to ground\
