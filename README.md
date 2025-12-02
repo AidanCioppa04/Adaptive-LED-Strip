@@ -1,4 +1,4 @@
-# smart-LED-project
+# Adaptive-LED-Strip
 simple LED project for my desk using arduino with some ambient light sensors
 
 This project, which we are calling the Adaptive LED Strip is a simple to setup and use LED strip capable of adapting to light levels within the room.
